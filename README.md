@@ -27,6 +27,8 @@ I'm a developer and here you can find my personal projects and contributions.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
+
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-000000?style=flat-square&logo=logstash&logoColor=white)
